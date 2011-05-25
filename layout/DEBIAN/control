@@ -1,0 +1,12 @@
+Homepage: 
+Depiction: 
+Author: r_plus <anasthasia.r@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Custom URL Scheme Plugin
+Package: jp.r-plus.customactionmenuplugin
+Depends: actionmenu, mobilesubstrate
+Section: App Addons
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: open Custom URL Scheme.
+dev: rplus
