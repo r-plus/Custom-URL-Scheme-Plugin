@@ -49,13 +49,13 @@
 		}
 	}
 	
-	BOOL isFirstAppend = NO;
+	BOOL isFirstAppend = YES;
 	
 	for ( NSString *add in array ){
 	
-		if (!isFirstAppend) {
+		if (isFirstAppend) {
 			[string appendString:add];
-			isFirstAppend = YES;
+			isFirstAppend = NO;
 			continue;
 		}
 		
