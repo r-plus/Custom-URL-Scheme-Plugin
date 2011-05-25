@@ -1,6 +1,6 @@
 #Custom URL Scheme Plugin
 
-ActionMenu Plugin for open Custom-URL-Scheme.
+open Custom-URL-Scheme for ActionMenu.
 
 ###MACRO
 
